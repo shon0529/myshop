@@ -3,6 +3,7 @@ body{
     background: brown;
 }
 
-.staff{
+.staff-searched{
     color: green;
+    background: red;
 }
